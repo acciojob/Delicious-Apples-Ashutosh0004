@@ -1,1 +1,16 @@
-/* your code here */
+
+.product__photo{
+	<img src="https://res.cloudinary.com/john-mantas/image/upload/v1537291846/codepen/delicious-apples/green-apple-with-slice.png"
+						alt="green apple slice">
+	 box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 50%;
+	
+	}
+	.product__photo{
+		background-color:#4CC417
+	}
+	.photo-container{
+		
+	}
+}
